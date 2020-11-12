@@ -1,0 +1,506 @@
+[
+  {
+    "date": "2019-03-30T16:00:00.000Z",
+    "stockId": 639,
+    "standardDate": "2019-03-30T16:00:00.000Z",
+    "reportDate": "2019-04-26T16:00:00.000Z",
+    "reportType": "first_quarterly_report"
+  },
+  {
+    "date": "2018-12-30T16:00:00.000Z",
+    "stockId": 639,
+    "standardDate": "2018-12-30T16:00:00.000Z",
+    "reportDate": "2019-04-26T16:00:00.000Z",
+    "reportType": "annual_report"
+  },
+  {
+    "date": "2018-09-29T16:00:00.000Z",
+    "stockId": 639,
+    "standardDate": "2018-09-29T16:00:00.000Z",
+    "reportDate": "2018-10-25T16:00:00.000Z",
+    "reportType": "third_quarterly_report"
+  },
+  {
+    "date": "2018-06-29T16:00:00.000Z",
+    "stockId": 639,
+    "standardDate": "2018-06-29T16:00:00.000Z",
+    "reportDate": "2018-08-23T16:00:00.000Z",
+    "reportType": "interim_report"
+  },
+  {
+    "date": "2018-03-30T16:00:00.000Z",
+    "stockId": 639,
+    "standardDate": "2018-03-30T16:00:00.000Z",
+    "reportDate": "2018-04-27T16:00:00.000Z",
+    "reportType": "first_quarterly_report"
+  },
+  {
+    "date": "2017-12-30T16:00:00.000Z",
+    "stockId": 639,
+    "standardDate": "2017-12-30T16:00:00.000Z",
+    "reportDate": "2018-04-27T16:00:00.000Z",
+    "reportType": "annual_report"
+  },
+  {
+    "date": "2017-09-29T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2017-10-19T16:00:00.000Z",
+    "reportType": "third_quarterly_report",
+    "standardDate": "2017-09-29T16:00:00.000Z"
+  },
+  {
+    "date": "2017-06-29T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2017-08-17T16:00:00.000Z",
+    "reportType": "interim_report",
+    "standardDate": "2017-06-29T16:00:00.000Z"
+  },
+  {
+    "date": "2017-03-30T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2017-04-27T16:00:00.000Z",
+    "reportType": "first_quarterly_report",
+    "standardDate": "2017-03-30T16:00:00.000Z"
+  },
+  {
+    "date": "2016-12-30T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2017-04-05T16:00:00.000Z",
+    "reportType": "annual_report",
+    "standardDate": "2016-12-30T16:00:00.000Z"
+  },
+  {
+    "date": "2016-09-29T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2016-10-27T16:00:00.000Z",
+    "reportType": "third_quarterly_report",
+    "standardDate": "2016-09-29T16:00:00.000Z"
+  },
+  {
+    "date": "2016-06-29T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2016-08-11T16:00:00.000Z",
+    "reportType": "interim_report",
+    "standardDate": "2016-06-29T16:00:00.000Z"
+  },
+  {
+    "date": "2016-03-30T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2016-04-18T16:00:00.000Z",
+    "reportType": "first_quarterly_report",
+    "standardDate": "2016-03-30T16:00:00.000Z"
+  },
+  {
+    "date": "2015-12-30T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2016-03-21T16:00:00.000Z",
+    "reportType": "annual_report",
+    "standardDate": "2015-12-30T16:00:00.000Z"
+  },
+  {
+    "date": "2015-09-29T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2015-10-12T16:00:00.000Z",
+    "reportType": "third_quarterly_report",
+    "standardDate": "2015-09-29T16:00:00.000Z"
+  },
+  {
+    "date": "2015-06-29T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2015-08-30T16:00:00.000Z",
+    "reportType": "interim_report",
+    "standardDate": "2015-06-29T16:00:00.000Z"
+  },
+  {
+    "date": "2015-03-30T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2015-04-26T16:00:00.000Z",
+    "reportType": "first_quarterly_report",
+    "standardDate": "2015-03-30T16:00:00.000Z"
+  },
+  {
+    "date": "2014-12-30T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2015-03-23T16:00:00.000Z",
+    "reportType": "annual_report",
+    "standardDate": "2014-12-30T16:00:00.000Z"
+  },
+  {
+    "date": "2014-09-29T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2014-10-26T16:00:00.000Z",
+    "reportType": "third_quarterly_report",
+    "standardDate": "2014-09-29T16:00:00.000Z"
+  },
+  {
+    "date": "2014-06-29T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2014-08-13T16:00:00.000Z",
+    "reportType": "interim_report",
+    "standardDate": "2014-06-29T16:00:00.000Z"
+  },
+  {
+    "date": "2014-03-30T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2014-04-14T16:00:00.000Z",
+    "reportType": "first_quarterly_report",
+    "standardDate": "2014-03-30T16:00:00.000Z"
+  },
+  {
+    "date": "2013-12-30T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2014-04-14T16:00:00.000Z",
+    "reportType": "annual_report",
+    "standardDate": "2013-12-30T16:00:00.000Z"
+  },
+  {
+    "date": "2013-09-29T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2013-10-29T16:00:00.000Z",
+    "reportType": "third_quarterly_report",
+    "standardDate": "2013-09-29T16:00:00.000Z"
+  },
+  {
+    "date": "2013-06-29T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2013-08-25T16:00:00.000Z",
+    "reportType": "interim_report",
+    "standardDate": "2013-06-29T16:00:00.000Z"
+  },
+  {
+    "date": "2013-03-30T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2013-04-17T16:00:00.000Z",
+    "reportType": "first_quarterly_report",
+    "standardDate": "2013-03-30T16:00:00.000Z"
+  },
+  {
+    "date": "2012-12-30T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2013-04-17T16:00:00.000Z",
+    "reportType": "annual_report",
+    "standardDate": "2012-12-30T16:00:00.000Z"
+  },
+  {
+    "date": "2012-09-29T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2012-10-17T22:30:00.000Z",
+    "reportType": "third_quarterly_report",
+    "standardDate": "2012-09-29T16:00:00.000Z"
+  },
+  {
+    "date": "2012-06-29T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2012-08-16T22:30:00.000Z",
+    "reportType": "interim_report",
+    "standardDate": "2012-06-29T16:00:00.000Z"
+  },
+  {
+    "date": "2012-03-30T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2012-04-23T22:30:00.000Z",
+    "reportType": "first_quarterly_report",
+    "standardDate": "2012-03-30T16:00:00.000Z"
+  },
+  {
+    "date": "2011-12-30T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2012-04-23T22:30:00.000Z",
+    "reportType": "annual_report",
+    "standardDate": "2011-12-30T16:00:00.000Z"
+  },
+  {
+    "date": "2011-09-29T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2011-10-19T22:30:00.000Z",
+    "reportType": "third_quarterly_report",
+    "standardDate": "2011-09-29T16:00:00.000Z"
+  },
+  {
+    "date": "2011-06-29T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2011-08-16T22:30:00.000Z",
+    "reportType": "interim_report",
+    "standardDate": "2011-06-29T16:00:00.000Z"
+  },
+  {
+    "date": "2011-03-30T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2011-04-18T22:30:00.000Z",
+    "reportType": "first_quarterly_report",
+    "standardDate": "2011-03-30T16:00:00.000Z"
+  },
+  {
+    "date": "2010-12-30T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2011-03-24T22:30:00.000Z",
+    "reportType": "annual_report",
+    "standardDate": "2010-12-30T16:00:00.000Z"
+  },
+  {
+    "date": "2010-09-29T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2010-10-19T22:30:00.000Z",
+    "reportType": "third_quarterly_report",
+    "standardDate": "2010-09-29T16:00:00.000Z"
+  },
+  {
+    "date": "2010-06-29T16:00:00.000Z",
+    "stockId": 639,
+    "reportDate": "2010-07-27T22:30:30.000Z",
+    "reportType": "interim_report",
+    "standardDate": "2010-06-29T16:00:00.000Z"
+  },
+  {
+    "date": "2019-03-30T16:00:00.000Z",
+    "stockId": 300146,
+    "standardDate": "2019-03-30T16:00:00.000Z",
+    "reportDate": "2019-04-25T16:00:00.000Z",
+    "reportType": "first_quarterly_report"
+  },
+  {
+    "date": "2018-12-30T16:00:00.000Z",
+    "stockId": 300146,
+    "standardDate": "2018-12-30T16:00:00.000Z",
+    "reportDate": "2019-02-27T16:00:00.000Z",
+    "reportType": "annual_report"
+  },
+  {
+    "date": "2018-09-29T16:00:00.000Z",
+    "stockId": 300146,
+    "standardDate": "2018-09-29T16:00:00.000Z",
+    "reportDate": "2018-10-26T16:00:00.000Z",
+    "reportType": "third_quarterly_report"
+  },
+  {
+    "date": "2018-06-29T16:00:00.000Z",
+    "stockId": 300146,
+    "standardDate": "2018-06-29T16:00:00.000Z",
+    "reportDate": "2018-07-30T16:00:00.000Z",
+    "reportType": "interim_report"
+  },
+  {
+    "date": "2018-03-30T16:00:00.000Z",
+    "stockId": 300146,
+    "standardDate": "2018-03-30T16:00:00.000Z",
+    "reportDate": "2018-04-24T16:00:00.000Z",
+    "reportType": "first_quarterly_report"
+  },
+  {
+    "date": "2017-12-30T16:00:00.000Z",
+    "stockId": 300146,
+    "standardDate": "2017-12-30T16:00:00.000Z",
+    "reportDate": "2018-02-27T16:00:00.000Z",
+    "reportType": "annual_report"
+  },
+  {
+    "date": "2017-09-29T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2017-10-26T16:00:00.000Z",
+    "reportType": "third_quarterly_report",
+    "standardDate": "2017-09-29T16:00:00.000Z"
+  },
+  {
+    "date": "2017-06-29T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2017-07-30T16:00:00.000Z",
+    "reportType": "interim_report",
+    "standardDate": "2017-06-29T16:00:00.000Z"
+  },
+  {
+    "date": "2017-03-30T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2017-04-26T16:00:00.000Z",
+    "reportType": "first_quarterly_report",
+    "standardDate": "2017-03-30T16:00:00.000Z"
+  },
+  {
+    "date": "2016-12-30T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2017-02-27T16:00:00.000Z",
+    "reportType": "annual_report",
+    "standardDate": "2016-12-30T16:00:00.000Z"
+  },
+  {
+    "date": "2016-09-29T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2016-10-27T16:00:00.000Z",
+    "reportType": "third_quarterly_report",
+    "standardDate": "2016-09-29T16:00:00.000Z"
+  },
+  {
+    "date": "2016-06-29T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2016-07-29T16:00:00.000Z",
+    "reportType": "interim_report",
+    "standardDate": "2016-06-29T16:00:00.000Z"
+  },
+  {
+    "date": "2016-03-30T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2016-04-24T16:00:00.000Z",
+    "reportType": "first_quarterly_report",
+    "standardDate": "2016-03-30T16:00:00.000Z"
+  },
+  {
+    "date": "2015-12-30T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2016-02-26T16:00:00.000Z",
+    "reportType": "annual_report",
+    "standardDate": "2015-12-30T16:00:00.000Z"
+  },
+  {
+    "date": "2015-09-29T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2015-10-21T16:00:00.000Z",
+    "reportType": "third_quarterly_report",
+    "standardDate": "2015-09-29T16:00:00.000Z"
+  },
+  {
+    "date": "2015-06-29T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2015-07-23T16:00:00.000Z",
+    "reportType": "interim_report",
+    "standardDate": "2015-06-29T16:00:00.000Z"
+  },
+  {
+    "date": "2015-03-30T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2015-04-23T16:00:00.000Z",
+    "reportType": "first_quarterly_report",
+    "standardDate": "2015-03-30T16:00:00.000Z"
+  },
+  {
+    "date": "2014-12-30T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2015-02-27T16:00:00.000Z",
+    "reportType": "annual_report",
+    "standardDate": "2014-12-30T16:00:00.000Z"
+  },
+  {
+    "date": "2014-09-29T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2014-10-23T16:00:00.000Z",
+    "reportType": "third_quarterly_report",
+    "standardDate": "2014-09-29T16:00:00.000Z"
+  },
+  {
+    "date": "2014-06-29T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2014-07-28T16:00:00.000Z",
+    "reportType": "interim_report",
+    "standardDate": "2014-06-29T16:00:00.000Z"
+  },
+  {
+    "date": "2014-03-30T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2014-04-22T16:00:00.000Z",
+    "reportType": "first_quarterly_report",
+    "standardDate": "2014-03-30T16:00:00.000Z"
+  },
+  {
+    "date": "2013-12-30T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2014-02-27T16:00:00.000Z",
+    "reportType": "annual_report",
+    "standardDate": "2013-12-30T16:00:00.000Z"
+  },
+  {
+    "date": "2013-09-29T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2013-10-24T16:00:00.000Z",
+    "reportType": "third_quarterly_report",
+    "standardDate": "2013-09-29T16:00:00.000Z"
+  },
+  {
+    "date": "2013-06-29T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2013-07-29T16:00:00.000Z",
+    "reportType": "interim_report",
+    "standardDate": "2013-06-29T16:00:00.000Z"
+  },
+  {
+    "date": "2013-03-30T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2013-04-14T16:00:00.000Z",
+    "reportType": "first_quarterly_report",
+    "standardDate": "2013-03-30T16:00:00.000Z"
+  },
+  {
+    "date": "2012-12-30T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2013-02-27T16:00:00.000Z",
+    "reportType": "annual_report",
+    "standardDate": "2012-12-30T16:00:00.000Z"
+  },
+  {
+    "date": "2012-09-29T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2012-10-24T22:30:00.000Z",
+    "reportType": "third_quarterly_report",
+    "standardDate": "2012-09-29T16:00:00.000Z"
+  },
+  {
+    "date": "2012-06-29T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2012-07-27T22:30:00.000Z",
+    "reportType": "interim_report",
+    "standardDate": "2012-06-29T16:00:00.000Z"
+  },
+  {
+    "date": "2012-03-30T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2012-04-15T22:30:00.000Z",
+    "reportType": "first_quarterly_report",
+    "standardDate": "2012-03-30T16:00:00.000Z"
+  },
+  {
+    "date": "2011-12-30T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2012-01-31T22:30:00.000Z",
+    "reportType": "annual_report",
+    "standardDate": "2011-12-30T16:00:00.000Z"
+  },
+  {
+    "date": "2011-09-29T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2011-10-20T22:30:00.000Z",
+    "reportType": "third_quarterly_report",
+    "standardDate": "2011-09-29T16:00:00.000Z"
+  },
+  {
+    "date": "2011-06-29T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2011-07-27T22:30:00.000Z",
+    "reportType": "interim_report",
+    "standardDate": "2011-06-29T16:00:00.000Z"
+  },
+  {
+    "date": "2011-03-30T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2011-04-21T22:30:00.000Z",
+    "reportType": "first_quarterly_report",
+    "standardDate": "2011-03-30T16:00:00.000Z"
+  },
+  {
+    "date": "2010-12-30T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2011-04-17T22:31:00.000Z",
+    "reportType": "annual_report",
+    "standardDate": "2010-12-30T16:00:00.000Z"
+  },
+  {
+    "date": "2010-09-29T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2010-09-29T16:00:00.000Z",
+    "reportType": "third_quarterly_report",
+    "standardDate": "2010-09-29T16:00:00.000Z"
+  },
+  {
+    "date": "2010-06-29T16:00:00.000Z",
+    "stockId": 300146,
+    "reportDate": "2010-06-29T16:00:00.000Z",
+    "reportType": "interim_report",
+    "standardDate": "2010-06-29T16:00:00.000Z"
+  }
+]

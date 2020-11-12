@@ -1,0 +1,229 @@
+{
+    "indexCode": [
+        {
+            "name": "300价值",
+            "code": "000919.sh",
+            "type": "ep",
+            "inStock": "",
+            "outStock": "519671"
+        },
+        {
+            "name": "恒生中国企业指数",
+            "code": "HSCEI.hk",
+            "type": "ep",
+            "inStock": "510900",
+            "outStock": "110031"
+        },
+        {
+            "name": "恒生指数",
+            "code": "HSI.hk",
+            "type": "ep",
+            "inStock": "159920",
+            "outStock": "000071"
+        },
+        {
+            "name": "红利指数",
+            "code": "000015.sh",
+            "type": "ep",
+            "inStock": "510880",
+            "outStock": ""
+        },
+        {
+            "name": "中证红利",
+            "code": "000922.sh",
+            "type": "ep",
+            "inStock": "515180",
+            "outStock": "090010"
+        },
+        {
+            "name": "上证50",
+            "code": "000016.sh",
+            "type": "ep",
+            "inStock": "510710",
+            "outStock": "110003"
+        },
+        {
+            "name": "基本面50",
+            "code": "000925.sh",
+            "type": "ep",
+            "inStock": "512750",
+            "outStock": "160716"
+        },
+        {
+            "name": "央视50",
+            "code": "399550.sz",
+            "type": "ep",
+            "inStock": "159965",
+            "outStock": "217027"
+        },
+        {
+            "name": "上证180",
+            "code": "000010.sh",
+            "type": "ep",
+            "inStock": "510180",
+            "outStock": "040180"
+        },
+        {
+            "name": "证券公司",
+            "code": "399975.sz",
+            "type": "pb",
+            "inStock": "512000",
+            "outStock": "004069"
+        },
+        {
+            "name": "中证银行",
+            "code": "399986.sz",
+            "type": "pb",
+            "inStock": "512800",
+            "outStock": "090010"
+        },
+        {
+            "name": "基建工程",
+            "code": "399995.sz",
+            "type": "pb",
+            "inStock": "005223",
+            "outStock": "165525"
+        },
+        {
+            "name": "深证F60",
+            "code": "399701.sz",
+            "type": "pe_pb",
+            "inStock": "159916",
+            "outStock": "530015"
+        },
+        {
+            "name": "深证F120",
+            "code": "399702.sz",
+            "type": "pe_pb",
+            "inStock": "159910",
+            "outStock": "070023"
+        },
+        {
+            "name": "沪深300",
+            "code": "000300.sh",
+            "type": "pe_pb",
+            "inStock": "510310",
+            "outStock": "110020"
+        },
+        {
+            "name": "中证500",
+            "code": "000905.sh",
+            "type": "pe_pb",
+            "inStock": "510580",
+            "outStock": "161017"
+        },
+        {
+            "name": "养老产业",
+            "code": "399812.sz",
+            "type": "pe_pb",
+            "inStock": "",
+            "outStock": "000968"
+        },
+        {
+            "name": "全指可选",
+            "code": "000989.sh",
+            "type": "pe_pb",
+            "inStock": "159936",
+            "outStock": "001133"
+        },
+        {
+            "name": "深证100",
+            "code": "399330.sz",
+            "type": "pe_pb",
+            "inStock": "159901",
+            "outStock": "161227"
+        },
+        {
+            "name": "深证成指",
+            "code": "399001.sz",
+            "type": "pe_pb",
+            "inStock": "159943",
+            "outStock": "163109"
+        },
+        {
+            "name": "中证消费",
+            "code": "000932.sh",
+            "type": "pe_pb",
+            "inStock": "159928",
+            "outStock": "000248"
+        },
+        {
+            "name": "医药100",
+            "code": "000978.sh",
+            "type": "pe_pb",
+            "inStock": "",
+            "outStock": "001550"
+        },
+        {
+            "name": "创业板指",
+            "code": "399006.sz",
+            "type": "pe_pb",
+            "inStock": "159915",
+            "outStock": "161022"
+        },
+        {
+            "name": "中证白酒",
+            "code": "399997.sz",
+            "type": "pe_pb",
+            "inStock": "",
+            "outStock": "161725"
+        },
+        {
+            "comment": "以下是，其余比较好的指数 香港中小，50AH优选，500低波动，纳斯达克100，标普500，中概互联50， 理杏仁没有的指标",
+            "name": "香港中小",
+            "code": "SPCHMSHP",
+            "type": "danjuan",
+            "inStock": "501021",
+            "outStock": "501021"
+        },
+        {
+            "name": "50AH优选",
+            "code": "SH000170",
+            "type": "ep",
+            "inStock": "501050",
+            "outStock": "501050"
+        },
+        {
+            "name": "500低波",
+            "code": "CSI930782",
+            "type": "danjuan",
+            "inStock": "512260",
+            "outStock": "003318"
+        },
+        {
+            "name": "MSCI中国",
+            "code": "CS716567",
+            "type": "danjuan",
+            "inStock": "",
+            "outStock": "006704"
+        },
+        {
+            "name": "纳指100",
+            "code": "NDX",
+            "type": "danjuan",
+            "inStock": "513100",
+            "outStock": "160213"
+        },
+        {
+            "name": "标普500",
+            "code": "SP500",
+            "type": "danjuan",
+            "inStock": "513500",
+            "outStock": "050025"
+        },
+        {
+            "name": "中概互联50",
+            "code": "CSIH30533",
+            "type": "danjuan",
+            "inStock": "513500",
+            "outStock": "050025"
+        },
+        {
+            "name": "食品饮料",
+            "code": "SZ399396",
+            "type": "danjuan",
+            "inStock": "",
+            "outStock": "160222"
+        }
+    ]
+}

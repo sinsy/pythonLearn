@@ -1,0 +1,1 @@
+mongoimport --db app_v0 --collection defaultSetting --file C:\Users\spy\Desktop\app\data\indexData.json
